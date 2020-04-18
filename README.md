@@ -42,6 +42,8 @@ The second column puts content when using the crawl menu.
 → If you want to inquire, just click it.
 → Feedback and suggestions are welcome.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ▶▷▶▷▶▷ Korean ◁◀◁◀◁◀
 첫 번째 칸: 스캔할 주소를 입력
 두 번째 칸: 크롤할 태그를 입력
