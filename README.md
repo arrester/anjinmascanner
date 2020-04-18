@@ -1,4 +1,4 @@
-README.txt // anjinmascanner 1.0ver made by arrester
+README.md // anjinmascanner 1.0ver made by arrester
 
 ![anjinmascanner image](https://raw.githubusercontent.com/arrester/anjinmascanner/master/anjinmascanner%20image.JPG)
 
