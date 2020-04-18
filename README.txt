@@ -1,7 +1,5 @@
 README.txt // anjinmascanner 1.0ver made by arrester
 
-![anjinmascanner image](./anjinmascanner%20image.JPG)
-
 ▶▷▶▷▶▷ English ◁◀◁◀◁◀
 First column: Enter the address you want to scan
 Second column: enter the tag to crawl
