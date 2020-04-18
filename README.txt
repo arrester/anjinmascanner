@@ -1,6 +1,6 @@
 README.txt // anjinmascanner 1.0ver made by arrester
 
-!(https://raw.githubusercontent.com/arrester/anjinmascanner/master/anjinmascanner%20image.JPG)
+![anjinmascanner image](https://raw.githubusercontent.com/arrester/anjinmascanner/master/anjinmascanner%20image.JPG)
 
 ▶▷▶▷▶▷ English ◁◀◁◀◁◀
 First column: Enter the address you want to scan
