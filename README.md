@@ -4,6 +4,7 @@ README.md // anjinmascanner 1.0ver made by arrester
 
 ▶▷▶▷▶▷ English ◁◀◁◀◁◀
 First column: Enter the address you want to scan
+
 Second column: enter the tag to crawl
 
 The second column puts content when using the crawl menu.
