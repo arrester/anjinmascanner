@@ -3,6 +3,7 @@ README.md // anjinmascanner 1.0ver made by arrester
 ![anjinmascanner image](https://raw.githubusercontent.com/arrester/anjinmascanner/master/anjinmascanner%20image.JPG)
 
 ★ Download and run all files. There is no need for python files. ★
+
 ★ 모든 파일을 다운로드하여 실행하십시오. 파이썬 파일은 없어도 실행 됩니다. ★
 
 ▶▷▶▷▶▷ English ◁◀◁◀◁◀
